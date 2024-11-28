@@ -1,6 +1,7 @@
 
 # Tasty Tips!
-<img src="https://github.com/user-attachments/assets/a89f6bcf-88fe-454e-94b1-a0ed23bb7e68" width="400" height="400" /><br>
+<img src="![pexels-ella-olsson-572949-1640777](https://github.com/user-attachments/assets/0da77f60-a998-4d8d-aae2-00451d125ac6)
+" width="400" height="400" /><br>
 <!--![201272914](https://github.com/user-attachments/assets/a89f6bcf-88fe-454e-94b1-a0ed23bb7e68)-->
 # App Photos
 <!--<img src="" width="200" height="400" />-->
